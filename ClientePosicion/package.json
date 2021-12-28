@@ -1,0 +1,9 @@
+{
+  "name": "cliente-posicion",
+  "version": "0.0.0",
+  "description": "ClientePosicion",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
